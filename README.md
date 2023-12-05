@@ -1,0 +1,1 @@
+"This is our final year school project.We are building a web hostel management system to help our university to embrace technology and face off the manual system in place.We have used php html mysql javascript css bootstrap and ajax to bring this project to life"
