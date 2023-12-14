@@ -318,8 +318,8 @@
           <h6 class="m-0 ms-2"> Random user1</h6>
         </div>
         <p>
-          rwrwrwrwrwrwrxvzjxhklhhcbnlkvhlvn,cnnlccccccccccccccccccclcllclcllcllcllc
-          jcjcjjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjjc
+          rwrwrwrwrwrwrxvzjxhklhhcbnlkvhl
+          jcjcjjcjcjcjcjcjcjcjcjcjcjcjcjc
         </p>
         <div class="rating">
            <i class="bi bi-star-fill text-warning"></i>
@@ -335,8 +335,8 @@
           <h6 class="m-0 ms-2"> Random user1</h6>
         </div>
         <p>
-          rwrwrwrwrwrwrxvzjxhklhhcbnlkvhlvn,cnnlccccccccccccccccccclcllclcllcllcllc
-          jcjcjjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjjc
+          rwrwrwrwrwrwrxvzjxhklhhcbnlkvhlv
+          jcjcjjcjcjcjcjcjcjcjcjcjcjcjcjcj
         </p>
         <div class="rating">
            <i class="bi bi-star-fill text-warning"></i>
@@ -352,8 +352,8 @@
           <h6 class="m-0 ms-2"> Random user1</h6>
         </div>
         <p>
-          rwrwrwrwrwrwrxvzjxhklhhcbnlkvhlvn,cnnlccccccccccccccccccclcllclcllcllcllc
-          jcjcjjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjjc
+          rwrwrwrwrwrwrxvzjxhklhhcbnlkvhl
+          jcjcjjcjcjcjcjcjcjcjcjcjcjcjcjc
         </p>
         <div class="rating">
            <i class="bi bi-star-fill text-warning"></i>
